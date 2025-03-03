@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mukesh_penta
+- 👋 Hi, I’m @mukesh_
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on IT
